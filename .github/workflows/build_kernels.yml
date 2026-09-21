@@ -26,10 +26,10 @@ on:
             zeromount:
                 description: "Zeromount"
                 required: false
-                default: true
+                default: false
                 type: boolean
             nomount:
-                description: "noomount"
+                description: "nomount"
                 required: false
                 default: true
                 type: boolean
