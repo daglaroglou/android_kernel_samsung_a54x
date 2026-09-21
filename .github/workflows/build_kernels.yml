@@ -107,7 +107,7 @@ jobs:
             BUILD_LOCALVERSION: -DAG-KSNSFS
             EXTRA_KSU_FLAGS: "--enable CONFIG_KSU"
             SUSFS_HASH: 529919fbc9f8aee6ee70eb3a8890ef33af0a109c
-            KERNELSU_NEXT_VERSION: 3.3.0
+            KERNELSU_NEXT_VERSION: 3.4.0
             SUSFS_VERSION: 2.3.0
             PATCHES_DIR: /home/runner/kernel_patches
 
